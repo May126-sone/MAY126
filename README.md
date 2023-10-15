@@ -38,9 +38,9 @@
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> Portfolio
+> Microverse Module 01 Project: This is my working portfolio. Inside you will find my background information, contacts, and project demonstration.
 
-**[your_project__name]** is a...
+**[Portfolio]** is a professional project with Micoverse, This project was built to show my professional work and hard-skills about how much I can understand basic things in software developing.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,37 +54,6 @@
 - Stylelint (A mighty, modern linter that helps you avoid errors and enforce conventions in your styles).
 - ESLint
 - Figma
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[Contact information]**
-- **[Content]**
-- **[Services]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,8 +70,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -177,8 +144,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@May126_sone](https://github.com/May126-sone)
@@ -188,8 +153,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[easy to manage]**
 
@@ -227,9 +190,7 @@ Give a ⭐️ if you like this project!
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[where can I find images for template design?]**
+- **[Where can I find images for template design?]**
 
   - [You can use Figma.com for features.]
 
